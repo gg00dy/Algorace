@@ -1,8 +1,8 @@
 # Algorace
-CS 131 project
+## CS 131 project
 
-To run:
-Download nodejs (lte)\n
-clone directory\n
-run "npm install" to install dependencies\n
-run "node app" to run app\n
+### To run:
+- Download nodejs (lte)
+- Clone directory
+- Run "npm install" to install dependencies
+- Run "node app" to run app
