@@ -2,7 +2,7 @@
 CS 131 project
 
 To run:
-Download nodejs (lte)
-clone directory
-run "npm install" to install dependencies
-run "node app" to run app
+Download nodejs (lte)\n
+clone directory\n
+run "npm install" to install dependencies\n
+run "node app" to run app\n
