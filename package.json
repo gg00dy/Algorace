@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Algo Race for CS class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Goodwin",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

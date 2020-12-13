@@ -1,0 +1,20 @@
+{ 
+    "Tasks":[
+        {
+            "Name":"Quick Sort",
+            "Algorithm":"Quick"
+        }, {
+            "Name":"Insertion Sort",
+            "Algorithm":"Insertion"
+        }, {
+            "Name":"Bubble Sort",
+            "Algorithm":"Bubble"
+        }, {
+            "Name":"Selection Sort",
+            "Algorithm":"Selection"
+        }, {
+            "Name":"Merge Sort",
+            "Algorithm":"Merge"
+        }
+    ]
+}
